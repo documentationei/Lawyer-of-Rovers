@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: Blair Witch
+about: A movie about under the toe.nails
+title: 'Crying in Egypt'
 labels: ''
 assignees: ''
 
